@@ -1,0 +1,13 @@
+$primary-color: #333;
+$danger-color: red;
+$main-font: Helvetica, sans-serif;
+
+h1 {
+  color: $primary-color;
+  background-color: aqua;
+}
+
+p {
+  font-family: $main-font;
+  border: 2px solid $danger-color;
+}
